@@ -1,0 +1,14 @@
+yolo_dataset/
+runs/
+outputs/
+*.cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
